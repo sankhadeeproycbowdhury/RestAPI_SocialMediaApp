@@ -31,4 +31,4 @@ app.include_router(user.router)
 app.include_router(auth.router)
 app.include_router(like.router)
 
-#mian server runs from here
+#mian server runs from here and pushing them on new git repo
